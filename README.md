@@ -1,6 +1,6 @@
 # Alexandre Sampaio Guimarães Ribeiro GitHub Space
 
-> Welcome!✨
+> Welcome!
 
 ---
 
