@@ -54,8 +54,14 @@
 </tr> 
 </table>
 
+<a href="https://wakatime.com/@acc8534a-d626-49d6-a547-13e31d679ecf"><img src="https://wakatime.com/badge/user/acc8534a-d626-49d6-a547-13e31d679ecf.svg"/></a>
+
+-----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=AlexandreSampaioGuimaraesRibeiro&style=for-the-badge"/>
 
 ### 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-sampaio-guimar%C3%A3es-ribeiro-417760410?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_alexandresampaio_?igsi=enUzc2JlcjAydG1i)
+
