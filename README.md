@@ -3,13 +3,11 @@
 > Welcome!
 
 ---
-
 ### About Me
-
 - 🎓 **Software Engineering Student** (2nd Semester)
+- 🎓 Completed a **Web Development Technician** course at **SENAI CTTI - MG**
 - 🚀 Currently diving deep into **Java**
 - 🎯 Focused on building clean, efficient, and user-friendly software
-
 ---
 
 ### 🛠️ Tech Stack & Tools
