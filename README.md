@@ -1,5 +1,9 @@
 # Alexandre Sampaio Guimarães Ribeiro GitHub
 
+<td align="center">
+  <img src="imagens/github-header-banner.png">
+</td>
+
 > Welcome!
 
 ---
